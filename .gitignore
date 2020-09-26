@@ -1,0 +1,3 @@
+builtin_lookup_name.so
+*.o
+tester
